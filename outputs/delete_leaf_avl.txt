@@ -1,0 +1,12 @@
+4: New node being added with IP:1
+4: New node being added with IP:6
+4: New node being added with IP:3
+1: New node being added with IP:3
+4: New node being added with IP:5
+6: New node being added with IP:5
+4: New node being added with IP:2
+1: New node being added with IP:2
+3: New node being added with IP:2
+Rebalancing: right-left rotation
+6: Leaf Node Deleted: 5
+2: Leaf Node Deleted: 3

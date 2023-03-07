@@ -7,7 +7,7 @@ In this project, i tried to manage to model package transfer mechanism of Intern
 
 In main.java file, input reference and output reference is in the format of args[0 or 1 ] providing flexibility to use in cmd .
 
-Cases are also provided.
+Cases are also provided. (In .zip format there are 100 test cases, please check inputs and outputs file for easy debug.)
 
 
 

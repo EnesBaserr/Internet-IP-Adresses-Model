@@ -1,5 +1,5 @@
 # Internet-IP-Adresses-Model
-Package and info transformation of Internet using Tree structures.
+Package and info transformation of Internet using AVL Tree and Binary Search Tree (BST) structures.
 
 There is two tree structure implementation and AVL.java one is for best efficiency. (Providing balancing logs.)
 
